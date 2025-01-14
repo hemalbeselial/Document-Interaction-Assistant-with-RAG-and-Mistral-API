@@ -30,7 +30,7 @@ python app.py
 
 ## Project Structure
 
-rag-mistral/
+Document-Interaction-Assistant-with-RAG-and-Mistral-API/
 
 ├── app.py                 # Main application file
 |
