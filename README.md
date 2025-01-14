@@ -1,5 +1,7 @@
 # Document Interaction Assistant with RAG and Mistral API
 
+# Description
+
 This project implements a **Retrieval-Augmented Generation (RAG)** system using the Mistral API. It allows users to upload **PDF** and **TXT** documents, ask questions based on the content, and receive accurate answers. The user interface is built with **Gradio** and hosted on a local web server.
 
 ## Features
