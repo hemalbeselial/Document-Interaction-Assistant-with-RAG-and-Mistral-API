@@ -31,10 +31,11 @@ python app.py
 ## Project Structure
 
 rag-mistral/
+
 ├── app.py                 # Main application file
-
+|
 ├── requirements.txt       # List of dependencies
-
+|
 ├── README.md              # Project documentation
 
 ## Example Workflow
