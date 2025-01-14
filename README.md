@@ -32,7 +32,9 @@ python app.py
 
 rag-mistral/
 ├── app.py                 # Main application file
+
 ├── requirements.txt       # List of dependencies
+
 ├── README.md              # Project documentation
 
 ## Example Workflow
